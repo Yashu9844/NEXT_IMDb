@@ -20,7 +20,7 @@ const page = async ({params}) => {
             width={500}
             height={300}
             className='rounded-lg'
-            
+            alt='image'
             >
 
             </Image>
